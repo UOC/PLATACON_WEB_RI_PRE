@@ -26,7 +26,7 @@ descripcio:
     l'impacte sanitari i mediambiental dels cotxes (54%), el factor principal
     que tenen en compte a l'hora de comprar-ne un és el **preu** (50%), seguit
     de la **seguretat** viària (48%) i el **consum de combustible** (46%).
-    **Només 1 de cada 10 (11%) pagaria més per un cotxe més ecològic**.
+    **Només 1 de cada 10 (11%) pagaria més per un cotxe més ecològic**..
 
 
     Els automòbils són responsables de prop del 12% de les emissions totals de
@@ -140,10 +140,6 @@ descripcio:
     persones a les quals s'ha fet l'enquesta.
 
 
-
-
-
-
     **Article de referència:**
 
 
@@ -153,8 +149,6 @@ descripcio:
     liderat per Open Evidence». The International Journal of Life Cycle
     Assessment. DOI:
     [10.1007/s11367-019-01644-4](https://link.springer.com/article/10.1007%2Fs11367-019-01644-4)
-
-
 
 
     **UOC R&I**
@@ -174,4 +168,3 @@ descripcio:
     docència, la recerca i la innovació de la UOC. Per a més informació:
     [research.uoc.edu](https://research.uoc.edu/portal/ca/ri/index.html).
 ---
-
