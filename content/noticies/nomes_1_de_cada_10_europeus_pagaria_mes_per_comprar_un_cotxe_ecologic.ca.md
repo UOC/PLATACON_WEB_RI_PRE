@@ -65,7 +65,7 @@ descripcio:
     vehicle que no pas l'impacte mediambiental que pugui tenir», explica el
     cofundador d'Open Evidence i professor dels Estudis de Ciències de la
     Informació i de la Comunicació de la UOC, [Francisco
-    Lupiáñez](https://open-evidence.com/team/).
+    Lupiáñez](https://open-evidence.com/team/)..
 
 
     «La causa d'això, entre altres factors, és que una part dels consumidors
