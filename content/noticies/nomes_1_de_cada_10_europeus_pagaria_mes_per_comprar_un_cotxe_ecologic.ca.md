@@ -24,7 +24,7 @@ descripcio:
     l'impacte sanitari i mediambiental dels cotxes (54%), el factor principal
     que tenen en compte a l'hora de comprar-ne un és el **preu** (50%), seguit
     de la **seguretat** viària (48%) i el **consum de combustible** (46%).
-    **Només 1 de cada 10 (11%) pagaria més per un cotxe més ecològic**.
+    **Només 1 de cada 10 (11%) pagaria més per un cotxe més ecològic**...
 
 
     Els automòbils són responsables de prop del 12% de les emissions totals de diòxid de carboni (CO2) de la UE, el principal gas d'efecte d'hivernacle. Per tal de promoure la compra de vehicles menys contaminants, la Comissió Europea està prenent en consideració un conjunt de regles comunes que serveixin de referència a les autoritats locals o nacionals per a impulsar projectes ecològics, als fabricants de vehicles per a produir cotxes menys contaminants i als consumidors per a guiar-los en la compra d'aquest tipus d'automòbils mitjançant l'ecoetiquetatge.
