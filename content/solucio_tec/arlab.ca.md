@@ -16,7 +16,7 @@ about:
       intel·ligent, tauleta...), directament o indirecta, d’un **entorn físic**
       del món **real**, **combinat** amb **elements virtuals** (vídeo, àudio,
       imatges, animacions 3D, webs) per a la creació d’una realitat mixta en
-      temps real..
+      temps real.
 
 
       La realitat augmentada no és una **tecnologia**nova, però sí **emergent**. L’avenç tecnològic, la presència creixent de telèfons amb connexió a internet i la cultura del nou consumidor estan assentant aquesta tecnologia, que **permet infinitat de possibilitats**.
