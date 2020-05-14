@@ -11,7 +11,7 @@ general:
   text_breu: "ARLab: Creació d'experiències de Realitat Augmentada"
 about:
   - descripcio: >-
-      ***Realitat augmentada***(RA) és el terme que s’utilitza per a definir la
+      **Realitat augmentada**(RA) és el terme que s’utilitza per a definir la
       imatge que es pot veure a través d’un dispositiu tecnològic (telèfon
       intel·ligent, tauleta...), directament o indirecta, d’un **entorn físic**
       del món **real**, **combinat** amb **elements virtuals** (vídeo, àudio,
@@ -19,7 +19,7 @@ about:
       temps real.
 
 
-      La realitat augmentada no és una **tecnologia**nova, però sí **emergent**. L’avenç tecnològic, la presència creixent de telèfons amb connexió a internet i la cultura del nou consumidor estan assentant aquesta tecnologia, que **permet infinitat de possibilitats**.
+      La realitat augmentada no és una **tecnologia** nova, però sí **emergent**. L’avenç tecnològic, la presència creixent de telèfons amb connexió a internet i la cultura del nou consumidor estan assentant aquesta tecnologia, que **permet infinitat de possibilitats**.
     titol: Realitat Augmentada
 aspectes_innovadors:
   - descripcio: >-
