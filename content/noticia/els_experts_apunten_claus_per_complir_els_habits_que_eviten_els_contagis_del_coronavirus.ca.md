@@ -6,7 +6,7 @@ destacat: true
 date: 2020-04-20T14:01:16.912Z
 general:
   titol: Els experts apunten claus per complir els hàbits que eviten els contagis
-    del coronavirus
+    del coronaviruS
   img: /img/192-evitar-contagi-coronavirus.jpg_944377278.jpg
   autor: Rubén Permuy Iglesias
   img_autor: Claudio Schwarz | Unsplash
