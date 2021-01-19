@@ -69,4 +69,9 @@ aplicacions:
 
       * Viatjar en el temps: poder veure una zona ambientada en una època determinada.
     titol: Aplicació
+investigadors:
+  - id: "48126202"
+    name: Aguilar Martínez, Alicia
+    url: https://talent.am.pre.uoc.es/ca/alicia-aguilar-martinez.html
+    url_img: https://talent.am.pre.uoc.es/img/api/pdi/481262/image/1573926447550
 ---
