@@ -267,67 +267,6 @@
 		,{		  
 		
 		"type" : "add",
-		"id" : "15706c35037b0fd0f8da005856f24a87",
-		"fields" : {
-
-			"idioma": "en",
-			"title": "ARTLab",
-
-			"name" : "ARTLab",
-			"text_breu" : "ARLab: Creation of Augmented Reality experiences",
-			
-			"imatge_url" : "/img/arlab.jpg",
-			"centre" : "Estuids",
-			"sector" : "Economy, business and ICT",
-			
-			
-			
-				
-					
-				
-				
-				"xarxes_address": ["http://in3.uoc.edu/opencms_in3/opencms/webs/projectes/realitat_augmentada/EN/index.html"],
-			
-
-			"about_title": "ARTLab_desc_en",
-			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nAugmented reality (AR) is the term used to define the direct or indirect viewing through a technology device (smartphone, tablet, etc.) of a physical environment of the real world, combined with virtual elements (video, audio, images, 3D animations, websites) for the creation of a mixed reality in real time.\\\nAugmented reality is not a new technology but an emerging one. Advances in technology, the growing presence of telephones with an Internet connection and the new consumer culture are laying the basis for this technology, which offers endless possibilities.\n\n\u003c!--EndFragment--\u003e",
-
-			
-			
-				"asp_innov_title": "ARTLAB_iinovation",
-				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nThe use of augmented reality provides the following benefits:\\\n• It increases the commitment and interaction with the user and provides a richer experience.\\\n• It increases the users' perceived value of products and brands.\\\n• It is a mobile and personal technology and is therefore highly accessible in a market with a high level of penetration of mobile devices.\\\n• It is an economical communication alternative.\\\n• It offers detailed analysis regarding the users/consumers.\n\n\u003c!--EndFragment--\u003e",
-				"app_title": "ARTLab_applications",
-				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nAugmented reality can be applied to all productive sectors. The experience of the UOC centres in the creation of AR experiences for the fields of education, culture, tourism and advertising. Some examples of applications in these fields are:\\\n• Education:\\\no Contextualization and clarification of concepts in text books:\\\n- Include videos or interactive 3D models that explain a concept clearly.\\\n- Include interactive apps that help practise a subject and that can comprise or complement homework.\\\no Historical / cultural / social contextualization on school trips:\\\n- Create educational routes enriched with digital content such as videos, 3D models, web pages, etc.\\\n• Culture and advertising:\\\no Animate and advertise visits to museums, arts centres and exhibitions through image recognition, associating digital information with works of art, archaeological remains, paper catalogues, digital catalogues, programmes, advertisements, window displays, etc.\\\no Provide additional information about shows and events, offering information when passing in front of theatres, cinemas and premises or when pointing the mobile at a banner or advertising poster.\\\n• Tourism:\\\no Enhance and advertise landscapes, cultural heritage, tourist trails or points of interest through geolocation, associating digital information with any set of geographical points or using image recognition.\\\no Turn tours into treasure hunts to foster the tourist completing the trail and visiting all the points of interest on the route.\\\no Time travel: to be able to see an area set in a specific era.\\\no Offer promotional discounts through image recognition.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\nThe services offered by the UOC in the area of AR are geared towards organizations and small and medium businesses (SME) in the fields of culture, tourism, education and advertising wishing to approach users or customers using new communication channels, making the most of the popularity of mobile devices.\n\n\u003c!--EndFragment--\u003e\n\n\n\nClients:\n\n\\- \u003c!--StartFragment--\u003e\n\n[\\- **Augmented Reality experience on the skull of a Triceratops at the CosmoCaixa Museum**](https://www.youtube.com/watch?v=z0QueSx6J0o\u0026feature=emb_title)\n\nIn this case, an augmented reality experience has been developed for viewing an animated 3D model of a Triceratops with photo-realistic quality based on recognition of the skull exhibited at CosmoCaixa, the Obra Social \"la Caixa\" Science Museum. To view this model, visitors use a smartphone or a tablet.\n\nThe goal was to leverage the possibilities offered by current mobile technology to enrich the exhibition with educational content. Given the good results obtained with this project, CosmoCaixa has decided to continue working with the UOC to create new experiences with other items exhibited at the museum.\n\n[\\- **The UOC's educational model with augmented reality:**](https://www.youtube.com/watch?v=V060nGTsq7s\u0026feature=emb_title)\n\n\u003c!--StartFragment--\u003e\n\nThe goal of this project was to innovate in the communication on \"What it's like to study at the UOC\", targeting future students in particular and, in general, anyone who contacts the UOC's centres, using augmented reality technology. This video shows a report on the UOC's educational model and augmented reality broadcast on EL 9 TV in December 2013.\n\nThe UOC's centres are places that are often the future student's first contact with the UOC to find out how studying is done (educational model), what is studied (contents) and with what means (Virtual Campus and classrooms). Efficiently communicating these aspects to the visitor at the centre is one way of accurately showing what the UOC is and delping the future student in his or her decision to enrol, as well as representing the UOC's image in the territory. Given its function as a cradle for new technologies, any communication made by the UOC with respect to how, what and by what means must necessarily be innovative and attractive.\n\n\u003c!--EndFragment--\u003e\n\n**\\- [Virtual property tours with Solvia:](https://www.youtube.com/watch?v=xJo5DTu4uKo\u0026feature=emb_title)**\n\nThe goal was to offer innovative solutions for promoting Solvia Inmobiliaria's housing stock. These solutions included a Kinect device for navigating with the human body inside a 3D model of a property, a virtual tour using a touch screen to view real 360º graphic material of a dwelling, and interactive print solutions using graphic resources and catalogues.\n\nVisitors to the stand ad BCN Meeting Point 2015 were able to benefit from improved views of the properties for sale using a variety of Augmented Reality techniques. Furthermore, the stand's visitors were offered the possibility of enjoying this experience with tablets provided to them or using their own personal mobile devices connected to the stand's Wi-Fi.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--EndFragment--\u003e",
-			
-			
-			
-			
-			
-			
-			
-				
-				
-				
-				
-					
-					
-					
-					
-				
-				
-				"contacts_email": ["transfer_ari@uoc.edu"],
-				
-				
-			
-			"content" : "transfer",
-			"content_encoding" : "utf-8",
-			"content_type" : "solucio_tec",
-			"url" : "/en/solucio_tec/artlab.html"
-		}
-	}
-		,{		  
-		
-		"type" : "add",
 		"id" : "b1c65febee5d62d6cd1df62ddc65fd7c",
 		"fields" : {
 
@@ -872,68 +811,6 @@
 		,{		  
 		
 		"type" : "add",
-		"id" : "ada4904805bba6755e16a63e51ef5aa5",
-		"fields" : {
-
-			"idioma": "es",
-			"title": "CareRespite",
-
-			"name" : "Care Respite",
-			"text_breu" : "Care Respite: Sistema de salud electrónica (ehealth) de monitorización remota de personas dependientes para la mejora de las condiciones laborales de los cuidadores",
-			
-			"imatge_url" : "/img/imatge_sistema_carerespite.jpg",
-			"centre" : "Estuids",
-			"sector" : "Salud - eHealth",
-			
-			
-			
-
-			"about_title": "CareRespite_descripcion",
-			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nEl sistema **[Care Respite](https://www.uoc.edu/portal/es/news/actualitat/2015/135-care-respite.html)** está formado por una cámara vinculada a un software de alertas que permite, mediante visión artificial, identificar situaciones de peligro en personas con dependencia, y alertar a los cuidadores para poner solución.\n\nSe trata de un sistema fácil de instalar y configurar: sencillamente se coloca la cámara en el lugar que se considere oportuno, se seleccionan las opciones de aviso en el dispositivo móvil y el sistema está listo para ser utilizado.\n\n\u003c!--EndFragment--\u003e",
-
-			
-			
-				"asp_innov_title": "CareRespite_aspectos",
-				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nCare Respite ofrece a los cuidadores de personas en situación de dependencia una mejora en la distribución de su tiempo de atención, ya que los cuidadores pueden hacer otras tareas con la tranquilidad de poder verificar la situación de la persona dependiente en cualquier momento.\n\nAdemás, saben que recibirán un aviso en caso de que se produzca una situación de peligro.\n\nCare Respite permite esta optimización del tiempo de dedicación y garantiza que la persona dependiente estará permanentemente atendida.\n\n\u003c!--EndFragment--\u003e",
-				"app_title": "Carerespite_aplicaciones",
-				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nCare Respite es un sistema pensado para el sector de la salud tanto en el ámbito privado como en el público.\n\nCare Respite está protegido mediante una **solicitud de patente europea** con el título «A computer-implemented method and a system for remotely monitoring a user, and a computer program product implementing the method» y con fecha de prioridad 31 de julio del 2014.\n\n\u003c!--EndFragment--\u003e",
-			
-			
-			
-			
-			
-			
-				
-					
-				
-
-				
-				"investigadors": ["Baró Solé, Xavier"],
-			
-			
-				
-				
-				
-				
-					
-					
-					
-					
-				
-				
-				"contacts_email": ["trasnfer_ari@uoc.edu"],
-				
-				
-			
-			"content" : "transfer",
-			"content_encoding" : "utf-8",
-			"content_type" : "solucio_tec",
-			"url" : "/es/solucio_tec/carerespite.html"
-		}
-	}
-		,{		  
-		
-		"type" : "add",
 		"id" : "69180408737f900284d35b184ef48284",
 		"fields" : {
 
@@ -1116,8 +993,6 @@
 			
 			
 				
-					
-						
 					
 				
 				
@@ -1439,8 +1314,6 @@
 			
 				
 					
-						
-					
 				
 				
 				"grups": ["MeL"],
@@ -1747,8 +1620,6 @@
 			
 			
 				
-					
-						
 					
 				
 				
@@ -2118,8 +1989,6 @@
 			
 			
 				
-					
-						
 					
 				
 				
@@ -2492,74 +2361,6 @@
 		,{		  
 		
 		"type" : "add",
-		"id" : "47c218ff5ea872bbef2013c8ad082134",
-		"fields" : {
-
-			"idioma": "ca",
-			"title": "Smart Logistics",
-
-			"name" : "Smart Logistics",
-			
-			"eslogan" : "Smart Logistics: Integració d’algorismes metaheurístics amb resultats de simulació per a generar solucions pseudoòptimes en la presa de decisions en problemes complexos en condicions d’incertesa",
-			"imatge_url" : "/img/35163823714_5988ddfcaa_w.jpg",
-			"centre" : "Estuids",
-			"sector" : "Economia, empresa i TIC",
-			
-			
-			
-				
-					
-				
-				
-				"xarxes_address": ["http://dpcs.uoc.edu/wordpress/"],
-			
-
-			"about_title": "Smart Logistics",
-			"about_descripcio": "Smart Logistics aplica la tecnologia simheuristics, una família d’algorismes híbrids que combinen la simulació amb tècniques metaheurístiques, per tal de resoldre eficientment problemes complexos en la presa de decisions en condicions d’incertesa.\n\nAmb la integració de la gran capacitat d’optimització d’algorismes metaheurístics i la flexibilitat de simulació s’aconsegueix una metodologia molt potent, flexible i relativament fàcil d’implementar que, després d’una sintonització correcta, pot generar solucions pseudoòptimes per a aplicacions de la vida real i per a problemes de gran escala en escenaris d’incertesa..",
-
-			
-			
-				"asp_innov_title": "Aspe",
-				"asp_innov_descripcio": "L’aplicació de la tecnologia permet obtenir solucions que proporcionin:\n\n* una reducció dels temps de procés i, en conseqüència,\n* una reducció de costos.\n\nEn l’àmbit específic de les ciutats intel·ligents, l’optimització també implica:\n\n* una reducció de la despesa pública (redistribuint l’estalvi en altres partides del pressupost municipal),\n* una millora ambiental (contaminació atmosfèrica, acústica, etc.),\n* una millora en la gestió dels espais (aparcaments, etc.),\n* una reducció del trànsit, etc.",
-				"app_title": "text",
-				"app_descripcio": "Aquesta tecnologia es pot aplicar a qualsevol indústria on hi hagi una necessitat d’optimització de processos amb la finalitat d’obtenir una reducció de costos (monetaris, ambientals, etc.). Exemples d’àrees en les quals es pot implementar són: logística, transport, producció, finances, telecomunicacions, mobilitat i ciutats intel·ligents (smart cities).\n\nCentrant-nos en l’àmbit de les ciutats intel·ligents, Smart Logistics pot aplicar-se a la gestió de la recollida de residus sòlids urbans. La tecnologia, combinada amb diferents dispositius de traçabilitat i de mesurament, permet desenvolupar un enfocament dinàmic de la recollida de residus. Tenir informació en temps real sobre els nivells de reposició dels contenidors es pot utilitzar per a optimitzar la planificació de gestió de residus i, per tant, millorar els temps de càrrega i descàrrega, amb la consegüent traducció en una reducció dels costos associats, de l’impacte ambiental, dels nivells de trànsit, etc.\n\nAltres àrees que es poden beneficiar de la tecnologia, dins de l’àmbit de les ciutats intel·ligents són: la planificació de la mobilitat urbana, la gestió dinàmica del trànsit, la planificació del transport públic, les dinàmiques en gestió d’aparcaments, etc.",
-			
-			
-			
-			
-			
-			
-				
-					
-				
-
-				
-				"investigadors": ["Juan Perez, Angel Alejandro"],
-			
-			
-				
-				
-				
-				
-					
-					
-					
-					
-				
-				
-				"contacts_email": ["transfer_ari@uoc.edu"],
-				
-				
-			
-			"content" : "transfer",
-			"content_encoding" : "utf-8",
-			"content_type" : "solucio_tec",
-			"url" : "/ca/solucio_tec/smart_logistics.ca-copy.html"
-		}
-	}
-		,{		  
-		
-		"type" : "add",
 		"id" : "e196128940aba9d823e8ade1b441bab8",
 		"fields" : {
 
@@ -2850,8 +2651,6 @@
 			
 				
 					
-						
-					
 				
 				
 				"grups": ["GADE"],
@@ -2920,8 +2719,6 @@
 			
 			
 				
-					
-						
 					
 				
 				
@@ -3800,8 +3597,6 @@
 			
 			
 				
-					
-						
 					
 				
 				
