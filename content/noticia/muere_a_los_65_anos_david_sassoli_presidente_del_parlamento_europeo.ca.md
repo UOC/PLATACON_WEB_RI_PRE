@@ -1,7 +1,7 @@
 ---
 title: Muere a los 65 años David Sassoli, presidente del Parlamento Europeo
 language: ca
-destacat: true
+destacat: false
 date: 2022-01-11T07:53:38.135Z
 general:
   titol: Muere a los 65 años David Sassoli, presidente del Parlamento Europeo
