@@ -17,4 +17,8 @@ investigadors:
     name: Megías Jiménez, David
     url: https://talent.am.pre.uoc.es/ca/david-megias-jimenez.html
     url_img: https://talent.am.pre.uoc.es/img/api/pdi/224796/image/1588156888077
+  - id: "48126202"
+    name: Aguilar Martínez, Alicia
+    url: https://talent.am.pre.uoc.es/ca/alicia-aguilar-martinez.html
+    url_img: https://talent.am.pre.uoc.es/img/api/pdi/481262/image/1573926447550
 ---
