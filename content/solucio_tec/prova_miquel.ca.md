@@ -4,7 +4,7 @@ language: ca
 general:
   nom: Prova Solució Tec MQL
   sector: Dret i governança
-  centre: e-Learn Center
+  centre: Estudis
   img_background: /img/research_lab.jpg
 grups_recerca:
   - id: "1902"
