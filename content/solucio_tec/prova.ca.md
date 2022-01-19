@@ -5,6 +5,7 @@ general:
   nom: prova Solució tecnologica
   sector: Salut - eHealth
   img_background: /img/logo_openevidence.jpg
+  centre: IN3
 grups_recerca:
   - id: "2602"
     name: KISON
