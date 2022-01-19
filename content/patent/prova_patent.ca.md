@@ -11,14 +11,14 @@ about:
   - titol: Prova Patent
     descripcio: Text prova patent
 grups_recerca:
-  - id: "9502"
-    name: AGORA
-    description: "Comunicació per a la Transformació de lEsfera Pública "
-    url: https://transfer-research.am.pre.uoc.es/ca/agora.html
-    url_img: https://transfer-research.am.pre.uoc.es/img/api/grupsrecerca/95/image/1576706879491
+  - id: "6002"
+    name: MeL
+    description: Management & eLearning
+    url: https://transfer-research.am.pre.uoc.es/ca/mel.html
+    url_img: https://transfer-research.am.pre.uoc.es/img/api/grupsrecerca/60/image/1573920260582
 investigadors:
-  - id: "13982902"
-    name: Lalueza Bosch, Ferran
-    url: https://talent.am.pre.uoc.es/ca/ferran-lalueza-bosch.html
-    url_img: https://talent.am.pre.uoc.es/img/api/pdi/139829/image/1594367378800
+  - id: "42444002"
+    name: Prado Fonts, Carles
+    url: https://talent.am.pre.uoc.es/ca/prado-fonts-carles.html
+    url_img: ""
 ---
