@@ -12,14 +12,14 @@ about:
   - titol: Prova Patent
     descripcio: Text prova patent
 grups_recerca:
-  - id: "6002"
-    name: MeL
-    description: Management & eLearning
-    url: https://transfer-research.am.pre.uoc.es/ca/mel.html
-    url_img: https://transfer-research.am.pre.uoc.es/img/api/grupsrecerca/60/image/1573920260582
+  - id: "2602"
+    name: KISON
+    description: K-riptography and Information Security for Open Networks
+    url: https://transfer-research.am.pre.uoc.es/ca/kison.html
+    url_img: https://transfer-research.am.pre.uoc.es/img/api/grupsrecerca/26/image/1624012419617
 investigadors:
-  - id: "42444002"
-    name: Prado Fonts, Carles
-    url: https://talent.am.pre.uoc.es/ca/prado-fonts-carles.html
-    url_img: ""
+  - id: "48126202"
+    name: Aguilar Martínez, Alicia
+    url: https://talent.am.pre.uoc.es/ca/alicia-aguilar-martinez.html
+    url_img: https://talent.am.pre.uoc.es/img/api/pdi/481262/image/1573926447550
 ---
