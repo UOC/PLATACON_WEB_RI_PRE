@@ -7,6 +7,7 @@ general:
   img_background: /img/x20190326-iot-in-five-years2-1.jpg.pagespeed.ic.jkhmNWwrQd.jpg
   sector: Salut - eHealth
   logo: /img/x20190326-iot-in-five-years2-1.jpg.pagespeed.ic.jkhmNWwrQd.jpg
+  centre: IN3
 about:
   - titol: Prova Patent
     descripcio: Text prova patent
