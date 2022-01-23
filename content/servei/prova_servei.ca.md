@@ -20,4 +20,8 @@ investigadors:
     name: Cervera Hidalgo, Joan
     url: https://talent.am.pre.uoc.es/ca/joan-cervera-hidalgo.html
     url_img: https://talent.am.pre.uoc.es/img/api/pdi/441521/image/1626370962858
+  - id: "48126202"
+    name: Aguilar Martínez, Alicia
+    url: https://talent.am.pre.uoc.es/ca/alicia-aguilar-martinez.html
+    url_img: https://talent.am.pre.uoc.es/img/api/pdi/481262/image/1573926447550
 ---
