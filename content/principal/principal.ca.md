@@ -20,11 +20,11 @@ centres_home:
       efectes de la interacció de les tecnologies digitals amb l'activitat
       humana.
     url: https://www.uoc.edu/portal/ca/in3/index.html
-  - title: eLearn Center
+  - title: eLearning Innovation Center
     description: Facilita la recerca aplicada en e-learning , fomenta la innovació
       en aquest àmbit i transmet a dins i a fora de la institució el valor de
       l'e-learning com a element constitutiu de la identitat de la UOC.
-    url: https://www.uoc.edu/portal/ca/elearncenter/index.html
+    url: https://www.uoc.edu/portal/ca/elearning-innovation-center/index.html
   - title: eHealth Center
     description: L’eHealth Center és un centre acadèmic obert al món que vol
       capacitar i apoderar el ciutadà i els professionals mitjançant les
