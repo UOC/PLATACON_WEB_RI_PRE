@@ -20,7 +20,7 @@ centres_home:
       de los efectos de la interacción de las tecnologías digitales con la
       actividad humana.
     url: https://www.uoc.edu/portal/es/in3/index.html
-  - title: eLearn Center
+  - title: eLearning Innovation Center
     description: Facilita la investigación aplicada en e-learning, fomenta la
       innovación en este ámbito y transmite dentro y fuera de la institución el
       valor del e-learning como elemento constitutivo de la identidad de la UOC.
