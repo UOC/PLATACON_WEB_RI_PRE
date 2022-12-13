@@ -5131,8 +5131,6 @@ centre:
     value: Estudis
   - display_name: "e-Health Center"
     value: "eHealth Center"
-  - display_name: "e-Learn Center"
-    value: "eLearn Center"
 infografia:
   - display_name: Grups de recerca
     number: "55"
