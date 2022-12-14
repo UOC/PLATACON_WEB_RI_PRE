@@ -5129,8 +5129,8 @@ centre:
     value: IN3
   - display_name: Estudis
     value: Estudis
-  - display_name: "e-Health Center"
-    value: "eHealth Center"
+  - display_name: eHealth Center
+    value: eHealth Center
 infografia:
   - display_name: Grupos de investigación
     number: "56"
