@@ -5042,7 +5042,7 @@ unesco:
     display_name: Doctrines filosòfiques
   - value: "7299"
     display_name: Altres especialitats filosòfiques (especificar)
-title: R&I a la UOC (PRE 2)
+title: R&I a la UOC (PRE)
 language: ca
 ambits_especialitzacio:
   - display_name: Tots
