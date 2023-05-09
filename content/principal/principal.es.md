@@ -5042,7 +5042,7 @@ unesco:
     display_name: Doctrinas filosóficas
   - value: "7299"
     display_name: Otras especialidades filosóficas (especificar)
-title: R&I en la UOC
+title: R&I en la UOC (ES PRE)
 language: es
 ambits_especialitzacio:
   - display_name: Todos
