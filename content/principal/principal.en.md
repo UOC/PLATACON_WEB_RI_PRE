@@ -5042,7 +5042,7 @@ unesco:
     display_name: philosophical doctrines
   - value: "7299"
     display_name: Other specialities philosophical (specify)
-title: R&I in UOC
+title: R&I en la UOC (EN PRE)
 language: en
 ambits_especialitzacio:
   - display_name: All
