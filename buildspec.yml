@@ -41,5 +41,5 @@ phases:
             fi
           fi
     finally:
-      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths "*"
+      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths "/*"
       - echo "Script finished running"
