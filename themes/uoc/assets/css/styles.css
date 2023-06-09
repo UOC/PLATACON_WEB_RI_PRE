@@ -18168,4 +18168,6 @@ footer div#footer-4 ul li a img {
   }
 }
 
-/* Update 2023/06/07 19:00 */
+.update-comment{
+  display: none;
+}
