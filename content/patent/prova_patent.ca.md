@@ -15,11 +15,11 @@ grups_recerca:
   - id: "2602"
     name: KISON
     description: K-riptography and Information Security for Open Networks
-    url: https://transfer-research.am.pre.uoc.es/ca/kison.html
-    url_img: https://transfer-research.am.pre.uoc.es/img/api/grupsrecerca/26/image/1624012419617
+    url: https://transfer-research.pre.uoc.edu/ca/kison.html
+    url_img: https://transfer-research.pre.uoc.edu/img/api/grupsrecerca/26/image/1624012419617
 investigadors:
   - id: "48126202"
     name: Aguilar Martínez, Alicia
-    url: https://talent.am.pre.uoc.es/ca/alicia-aguilar-martinez.html
-    url_img: https://talent.am.pre.uoc.es/img/api/pdi/481262/image/1573926447550
+    url: https://talent.pre.uoc.edu/ca/alicia-aguilar-martinez.html
+    url_img: https://talent.pre.uoc.edu/img/api/pdi/481262/image/1573926447550
 ---

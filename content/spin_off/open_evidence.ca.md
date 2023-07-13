@@ -81,16 +81,16 @@ grups_recerca:
   - id: "2202"
     name: GADE
     description: "eGovernança: administració i democràcia electrònica"
-    url: https://transfer-research.am.pre.uoc.es/ca/gade.html
-    url_img: https://transfer-research.am.pre.uoc.es/img/api/grupsrecerca/22/image/1581319786424
+    url: https://transfer-research.pre.uoc.edu/ca/gade.html
+    url_img: https://transfer-research.pre.uoc.edu/img/api/grupsrecerca/22/image/1581319786424
 investigadors:
   - id: "18608302"
     name: Garcia Alsina, Montserrat
-    url: https://talent.am.pre.uoc.es/ca/montserrat-garcia-alsina.html
-    url_img: https://talent.am.pre.uoc.es/img/api/pdi/186083/image/1571921035749
+    url: https://talent.pre.uoc.edu/ca/montserrat-garcia-alsina.html
+    url_img: https://talent.pre.uoc.edu/img/api/pdi/186083/image/1571921035749
   - id: "48126202"
     name: Aguilar Martínez, Alicia
-    url: https://talent.am.pre.uoc.es/ca/alicia-aguilar-martinez.html
-    url_img: https://talent.am.pre.uoc.es/img/api/pdi/481262/image/1573926447550
+    url: https://talent.pre.uoc.edu/ca/alicia-aguilar-martinez.html
+    url_img: https://talent.pre.uoc.edu/img/api/pdi/481262/image/1573926447550
 contacte: []
 ---

@@ -13,15 +13,15 @@ grups_recerca:
   - id: "802"
     name: GRIAL-UOC
     description: Grup de recerca en Lingüística Aplicada
-    url: https://transfer-research.am.pre.uoc.es/ca/grial-uoc.html
-    url_img: https://transfer-research.am.pre.uoc.es/img/api/grupsrecerca/8/image/1589796540826
+    url: https://transfer-research.pre.uoc.edu/ca/grial-uoc.html
+    url_img: https://transfer-research.pre.uoc.edu/img/api/grupsrecerca/8/image/1589796540826
 investigadors:
   - id: "44152102"
     name: Cervera Hidalgo, Joan
-    url: https://talent.am.pre.uoc.es/ca/joan-cervera-hidalgo.html
-    url_img: https://talent.am.pre.uoc.es/img/api/pdi/441521/image/1626370962858
+    url: https://talent.pre.uoc.edu/ca/joan-cervera-hidalgo.html
+    url_img: https://talent.pre.uoc.edu/img/api/pdi/441521/image/1626370962858
   - id: "48126202"
     name: Aguilar Martínez, Alicia
-    url: https://talent.am.pre.uoc.es/ca/alicia-aguilar-martinez.html
-    url_img: https://talent.am.pre.uoc.es/img/api/pdi/481262/image/1573926447550
+    url: https://talent.pre.uoc.edu/ca/alicia-aguilar-martinez.html
+    url_img: https://talent.pre.uoc.edu/img/api/pdi/481262/image/1573926447550
 ---

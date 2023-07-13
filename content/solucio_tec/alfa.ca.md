@@ -88,15 +88,15 @@ grups_recerca: []
 investigadors:
   - id: "66577502"
     name: Creus Quinteros, Amalia Susana
-    url: https://talent.am.pre.uoc.es/ca/amalia-susana-creus-quinteros.html
-    url_img: https://talent.am.pre.uoc.es/img/api/pdi/665775/image/1573925440895
+    url: https://talent.pre.uoc.edu/ca/amalia-susana-creus-quinteros.html
+    url_img: https://talent.pre.uoc.edu/img/api/pdi/665775/image/1573925440895
   - id: "42444002"
     name: Prado Fonts, Carles
-    url: https://talent.am.pre.uoc.es/ca/prado-fonts-carles.html
+    url: https://talent.pre.uoc.edu/ca/prado-fonts-carles.html
     url_img: ""
   - id: "48126202"
     name: Aguilar Martínez, Alicia
-    url: https://talent.am.pre.uoc.es/ca/alicia-aguilar-martinez.html
-    url_img: https://talent.am.pre.uoc.es/img/api/pdi/481262/image/1573926447550
+    url: https://talent.pre.uoc.edu/ca/alicia-aguilar-martinez.html
+    url_img: https://talent.pre.uoc.edu/img/api/pdi/481262/image/1573926447550
 contacte: []
 ---
