@@ -1,2 +1,16 @@
-public/
-bin/
+# Local Netlify folder
+.netlify
+public
+bin
+
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+.nyc_output
+.vscode
+images/.directory
+package-lock.json
+.hugo_build.lock
