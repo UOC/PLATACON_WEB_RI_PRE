@@ -2,7 +2,7 @@ var grups = [];
 var grupsSelectOptions = [];
 var investigadors = [];
 var investigadorsSelectOptions = [];
-var plataconApiUrl = "https://transfer-research.test.uoc.edu";
+var plataconApiUrl = "https://transfer-research.pre.uoc.edu";
 
 // Get Grups from API
 fetch( plataconApiUrl + '/api/search?idioma=ca&tipus=grup',
@@ -76,7 +76,7 @@ var GrupsCustomList = createClass({
           if(grups.length){
             var grupObjects = grups.filter(obj => {return obj.id === grupId});
             var entriesArray = [];
-            if(grupObjects){
+            if(grupObjects && grupObjects.length > 0){
               entriesArray.push(["id", grupId]);
               entriesArray.push(["name", grupObjects[0].name]);
               entriesArray.push(["description", grupObjects[0].description]);
