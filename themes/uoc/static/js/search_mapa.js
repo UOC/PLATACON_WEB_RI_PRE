@@ -73,6 +73,10 @@ var UOCSearchEngine = {
 		return UOCSearchEngine.endPointURI + queryString;
 	},
 	getResultMarkup : function(item, idx){
+		if (item.fields.descripcio_caracter_grup === 'Grup ad hoc') {
+			return;
+		}
+
 		var markup='<div class="col-xs-12 col-md-3" id="Result_'+idx+'">';
 		if(item.fields.content_type == "fitxa") {
 			markup+="<a href='"+item.fields.url+"'>"
