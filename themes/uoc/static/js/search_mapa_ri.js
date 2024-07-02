@@ -116,7 +116,7 @@ var UOCSearchEngine = {
 			markup+='</div><span class="author"><span class="description">'+item.fields.entradeta+'</span></span>';
 			markup+='</div></div></a>';
 		} else */
-		if(item.fields.content_type == "grup"){
+		if(item.fields.content_type == "grup" && item.fields.descripcio_caracter_grup != 'Grup ad hoc'){
 			markup='<div class="col-xs-12 col-sm-3" id="Result_'+idx+'">';
 			markup+="<a href='"+item.fields.url+"'>"
 			markup+='<div id="'+item.id+'" aria-label="region" class="card card-noimg"><div class="card__contents">';
